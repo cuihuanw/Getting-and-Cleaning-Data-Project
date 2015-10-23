@@ -17,7 +17,7 @@ The data set includes the following files:
 
 'features.txt': List of all 561 features.
 
-'activity_labels.txt': Links the class labels with their activity name.
+'activity_labels.txt': Links the class labels with their activity name. (WALKING: 1, WALKING_UPSTAIRS: 2, WALKING_DOWNSTAIRS:3, SITTING:4, STANDING:5, LAYING:6)
 
 'train/X_train.txt': Training set. 7352 observations of the 561 features, for 21 of the 30 volunteers
 
