@@ -1,4 +1,3 @@
-setwd("F:/CuiHuan/data Science/Course3_Getting_and_Cleaning_Data/project")
 
 ## 1.Merges the training and the test sets to create one data set.
 
